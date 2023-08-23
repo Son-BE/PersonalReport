@@ -1,0 +1,15 @@
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\bin\Debug\net6.0\SingleGame.exe
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\bin\Debug\net6.0\SingleGame.deps.json
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\bin\Debug\net6.0\SingleGame.runtimeconfig.json
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\bin\Debug\net6.0\SingleGame.dll
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\bin\Debug\net6.0\SingleGame.pdb
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\obj\Debug\net6.0\SingleGame.csproj.AssemblyReference.cache
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\obj\Debug\net6.0\SingleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\obj\Debug\net6.0\SingleGame.AssemblyInfoInputs.cache
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\obj\Debug\net6.0\SingleGame.AssemblyInfo.cs
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\obj\Debug\net6.0\SingleGame.csproj.CoreCompileInputs.cache
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\obj\Debug\net6.0\SingleGame.dll
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\obj\Debug\net6.0\refint\SingleGame.dll
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\obj\Debug\net6.0\SingleGame.pdb
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\obj\Debug\net6.0\SingleGame.genruntimeconfig.cache
+C:\Users\손병의\Desktop\문법종합반\SingleGame\SingleGame\obj\Debug\net6.0\ref\SingleGame.dll
